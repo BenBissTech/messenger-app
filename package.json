@@ -1,0 +1,17 @@
+{
+  "name": "messenger-app",
+  "version": "1.0.0",
+  "description": "Realtime web messenger app using Node.js and Socket.io",
+  "main": "script.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
